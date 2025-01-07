@@ -26,7 +26,7 @@ export default function Home() {
           </h1>
 
           <p className="max-w-md text-center text-gray-300">
-            Zegocloud is a global communication service provider offering developer-friendly and powerful SDKs & APIs.
+            "Your world, just a click away,Where ideas meet, night or day.Crystal-clear, in every way,Connect, create, and start today!"
           </p>
 
           <div className="flex flex-col md:flex-row items-center gap-4 w-full max-w-md">
